@@ -7,3 +7,6 @@ Added syntax highlight (based on IDLE syntax highlight)
 
 # V 1.2
 Now you can run Python file directly from the IDE!
+
+# P/S
+This is my best project so far
