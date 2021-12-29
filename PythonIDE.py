@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * 
 from tkinter import filedialog
 from idlelib.percolator import Percolator
 from idlelib.colorizer import ColorDelegator
