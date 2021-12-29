@@ -5,5 +5,3 @@ Hope you enjoy this IDE!
 Now you can run Python file directly from the IDE!
 # V 1.1
 Added syntax highlight (based on IDLE syntax highlight)
-# P/S
-This is my best project so far
