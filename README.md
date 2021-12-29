@@ -1,6 +1,8 @@
 # Python IDE by Anh Đức
 A basic Python IDE made with python module tkinter. 
 Hope you enjoy this IDE!
+# V 1.3
+"Open Terminal from IDE" feature
 # V 1.2
 Now you can run Python file directly from the IDE!
 # V 1.1
