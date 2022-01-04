@@ -3,6 +3,8 @@ A basic Python IDE made with python module tkinter.
 Hope you enjoy this IDE!
 # Releases
 https://github.com/anhduc261209/PythonIDE/releases
+# V 1.4
+New color theme!
 # V 1.3
 "Open Terminal from IDE" feature
 # V 1.2
