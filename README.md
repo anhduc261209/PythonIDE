@@ -1,7 +1,7 @@
 # Python IDE by Anh Đức
 A basic Python IDE made with python module tkinter. 
 Hope you enjoy this IDE!
-# Releases
+# Installation
 https://github.com/anhduc261209/PythonIDE/releases
 # V 1.4
 New color theme!
